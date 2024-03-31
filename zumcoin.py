@@ -1,6 +1,3 @@
-# zumcoin started on Jan 16 at 15:43
-# projected by Reckson
-
 import tkinter as tk
 import webbrowser as wb
 
